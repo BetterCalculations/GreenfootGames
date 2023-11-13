@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=HighscoreHandler
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ HighscoreHandler\ here.\r\n\ @Module\ HighscoreHandler\r\n\ @Sources\:https\://javabeginners.de/Ein-_und_Ausgabe/Eine_Datei_zeilenweise_auslesen.php\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ http\://www.javaschubla.de/2007/javaerst0260.html\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ https\://www.freecodecamp.org/news/java-string-to-int-how-to-convert-a-string-to-an-integer/\r\n\ @author\ (Maximilian\ Sch\u00E4fer)\ \r\n\ @version\ (1.0.0)\r\n
+comment1.params=
+comment1.target=HighscoreHandler()
+comment2.params=file
+comment2.target=boolean\ checkFile(java.io.File)
+comment3.params=
+comment3.target=java.lang.String\ read()
+comment4.params=
+comment4.target=int\ readToInt()
+comment5.params=txt
+comment5.target=void\ write(java.lang.String)
+numComments=6

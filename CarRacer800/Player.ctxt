@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Player
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Player\ here.\r\n\ @Module\ Player\r\n\ @author\ (your\ name)\ \r\n\ @version\ (1.0.0)\r\n
+comment1.params=
+comment1.target=void\ act()
+comment2.params=Key
+comment2.target=boolean\ isKeyDown(java.lang.String)
+comment3.params=
+comment3.target=boolean\ Collision()
+numComments=4
